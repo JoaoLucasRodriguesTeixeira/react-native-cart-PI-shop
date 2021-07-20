@@ -16,7 +16,7 @@
     "native-base": "^2.4.3",
     "react": "16.3.1",
     "react-apollo": "^2.1.6",
-    "react-native": "0.55.3",
+    "react-native": "0.62.3",
     "react-native-button": "^2.3.0",
     "react-native-camera": "^1.1.4",
     "react-native-firebase": "^4.2.0",
